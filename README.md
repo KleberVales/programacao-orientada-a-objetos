@@ -21,3 +21,7 @@ Example: Car myCar = new Car();
 → Example: using abstract classes and methods.
 
 ## ⚙️ Benefits of OOP
+- More organized and modular code
+- Reusability of components
+- Easier maintenance and extension
+- Greater clarity and connection to real-world concepts
