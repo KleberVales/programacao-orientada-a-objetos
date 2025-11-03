@@ -6,4 +6,5 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes code 
 Example: class Car { ... }\
 **Object:** An instance of a class — a functional copy based on the blueprint.
 Example: Car myCar = new Car();\
-**Encapsulation:** Protects the internal data of an object by exposing only what’s necessary through public methods.
+**Encapsulation:** Protects the internal data of an object by exposing only what’s necessary through public methods.\
+→ Helps maintain data security and integrity.
