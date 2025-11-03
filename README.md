@@ -10,3 +10,6 @@ Example: Car myCar = new Car();
 
 **Encapsulation:** Protects the internal data of an object by exposing only what’s necessary through public methods.\
 → Helps maintain data security and integrity.
+
+**Inheritance:** Allows a class to inherit attributes and methods from another class, promoting code reuse.\
+→ Example: class ElectricCar extends Car
