@@ -19,3 +19,5 @@ Example: Car myCar = new Car();
 
 **Abstraction:** Focuses on the essential aspects of an object while hiding unnecessary implementation details.\
 → Example: using abstract classes and methods.
+
+## ⚙️ Benefits of OOP
