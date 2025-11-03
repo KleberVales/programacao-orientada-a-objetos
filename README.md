@@ -13,3 +13,6 @@ Example: Car myCar = new Car();
 
 **Inheritance:** Allows a class to inherit attributes and methods from another class, promoting code reuse.\
 → Example: class ElectricCar extends Car
+
+**Polymorphism:** Enables methods with the same name to behave differently depending on the object’s type or context.\
+→ Example: method overriding (@Override in Java).
