@@ -16,3 +16,6 @@ Example: Car myCar = new Car();
 
 **Polymorphism:** Enables methods with the same name to behave differently depending on the object’s type or context.\
 → Example: method overriding (@Override in Java).
+
+**Abstraction:** Focuses on the essential aspects of an object while hiding unnecessary implementation details.\
+→ Example: using abstract classes and methods.
