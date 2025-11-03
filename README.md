@@ -4,3 +4,5 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes code 
 ## 🔑 Core Concepts
 **Class:** The blueprint or template that defines the characteristics and behaviors of objects.
 Example: class Car { ... }
+**Object:** An instance of a class — a functional copy based on the blueprint.
+Example: Car myCar = new Car();
